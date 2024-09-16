@@ -17,3 +17,8 @@
 * code tidak menghasilkan apa pun karena ketika index lebih dari 1 maka program akan melakukan syntax continue (melanjutkan perulangan tanpa melakukan print pada index yang terkait)
 ![praktikum 3.2 code]({F67373D9-427A-46EC-A4EF-989BA841CF00}.png)
 ![praktikum 3.2 hasil]({C3AF3BC0-646E-46DD-82C2-35BED9C944E8}.png)
+
+### tugas
+* tugas2
+1. ![tugas - code]({EC9040E7-7351-4932-ABE1-37AD97AA5308}.png)
+2. ![tugas]({983A7A88-806E-4C32-8BEA-D2116EEB5E1C}.png)
