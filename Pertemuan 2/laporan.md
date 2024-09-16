@@ -30,5 +30,28 @@ Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat gunakan 
 
 ## Jawaban:
 
+* Dart bertujuan unntuk menggabungkan kelebihan dari sebagaian besar bahasa tigkat tinggi dengan fitur bahasa pemrgraman terkini antara lain: Produktive tooling, Garbage collection, Type annotations, Statically typed, Portabilty
 
+* Flutter adalah framework yang menggunakan bahasa pemrograman Dart untuk membuat aplikasi mobile
 
+* Dart diluncurkan pada tahun 2011, dan rilis versi stabilnya pada tahun 2013 (awalnya dberfokus pada pengembangan web untuk menggantikan JS dan sekarang fokus pada mobile development)
+
+* Dart adalah bahasa modern yang luar biasa, mendukung lintas platform, dan memiliki tujuan umum dengan terus meningkatkan fitur-fiturnya, membuatnya lebih kekinian dan fleksibel. Itulah sebabnya tim Flutter framework memilih bahasa Dart untuk digunakan.
+
+* Dart VM and JavaScript compilation
+Kode Dart dapat dieksekusi pada lingkungan yang mendukung bahasa Dart. Lingkungan yang mendukung bahasa Dart perlu memperhatikan fitur-fitur penting seperti berikut:
+- Runtime systems
+- Dart core libraries
+- Garbage collectors
+* Eksekusi kode Dart dapat beroperasi dalam dua mode — kompilasi Just-In-Time (JIT) atau Kompilasi Ahead-Of-Time (AOT). Dijelaskan secara lebih rinci sebagai berikut:
+
+* Kompilasi JIT adalah tempat kode sumber dikompilasi sesuai kebutuhan—Just in time. 
+* Kompilasi AOT adalah dimana Dart VM dan kode Anda dikompilasi sebelumnya, VM bekerja lebih seperti sistem runtime Dart, yang menyediakan garbage collector dan metode-metode native dari Dart software development kit (SDK) pada aplikasi.
+
+* Dart dirancang untuk object-oriented (OO). Secara singkat, Bahasa OOP didasarkan pada konsep objek yang menyimpan kedua data (disebut fields) dan kode (disebut methods).
+
+* Dart hadir dengan banyak operator typical yang bekerja seperti banyak bahasa pemrograman lainnya
+* Operator Dart increment dan decrement berperilaku mirip dengan bahasa lain. 
+* Di Dart, tidak seperti Java dan bahasa lainnya, operator == tidak membandingkan referensi/alamat memori melainkan isi dari variabel tersebut. Juga, tidak seperti JavaScript, tidak ada operator === yang diperlukan pada Dart karena telah memiliki fitur type safety yang memastikan bahwa operator persamaan == hanya digunakan pada objek dengan tipe yang sama.
+* Operator logika di Dart adalah operator yang diterapkan pada operan bool; bisa berupa variabel, ekspresi, atau kondisi.
+* Seperti kebanyakan bahasa modern, Dart menggunakan function dan method sebagai cara untuk memisahkan kode. Sebuah function atau method adalah potongan kode yang menerima beberapa data, eksekusi kode, dan kemudian mengembalikan beberapa data (return).
